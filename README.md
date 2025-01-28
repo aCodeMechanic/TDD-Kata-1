@@ -7,4 +7,4 @@ Just add Flutter to your project, then run `flutter test`
 
 ## Screenshots
 
-![Screenshot](./screenshots/1.png)
+![Screenshot](./screenshots/screen_shot.png)
