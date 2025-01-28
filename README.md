@@ -8,3 +8,7 @@ Just add Flutter to your project, then run `flutter test`
 ## Screenshots
 
 ![Screenshot](./screenshots/screen_shot.png)
+
+## Authors
+
+- [@aCodeMechanic](https://www.github.com/aCodeMechanic)
